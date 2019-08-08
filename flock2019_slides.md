@@ -186,7 +186,8 @@ License: CC-BY
 ## Help us
 
 - Test the current workflow
--- Volunteers welcome to test the multi-build updates workflow when it lands
+-- Volunteers welcome for multi-build updates
+
 - Give your feedback
 
 ---
