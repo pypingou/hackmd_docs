@@ -28,7 +28,7 @@ License: CC-BY
 
 ## Who are we?
 
-<div style="width: 45%; float: right;">
+<div style="width: 45%; float: left;">
 
 ### pingou
 
@@ -37,7 +37,7 @@ License: CC-BY
 
 </div>
 
-<div style="width: 45%; float: left;">
+<div style="width: 45%; float: right;">
 
 ### Dominik Perpeet
 
@@ -93,7 +93,7 @@ License: CC-BY
 
 ## State of things
 
-- Single build update gated in rawhide
+- Single build updates are gated in rawhide
 -- How does it work?
 
 ---
@@ -112,8 +112,33 @@ License: CC-BY
 <img style="width: 90%;" src="https://pingou.fedorapeople.org/Simplified_single_build_update.jpg">
 </div>
 
----
+----
 
+### Decision making / by-passing
+
+<div >
+<img style="width: 90%;" src="https://pingou.fedorapeople.org/gating_decision_flow.jpg">
+</div>
+
+----
+
+#### Decision making / by-passing (2)
+
+- resultsdb: https://taskotron.fedoraproject.org/resultsdb/results
+- greenwave: https://greenwave.fedoraproject.org/api/v1.0/policies
+- waiverdb: https://waiverdb.fedoraproject.org/api/v1.0/waivers/
+
+----
+
+#### Waiving
+
+- Last resort
+
+- ``bodhi updates waive <id> <comment>``
+-- Failed tests
+-- Missing tests
+
+---
 
 ### Early feedback
 
@@ -126,14 +151,6 @@ License: CC-BY
 - Signing mass-rebuilds needs adjustments
 -- Dedicated signing?
 -- More workers?
-
----
-
-### Decision making / by-passing
-
-- resultsdb
-- greenwave
-- waiverdb
 
 ---
 
@@ -188,6 +205,7 @@ License: CC-BY
 - Multi-arch
 - Maintainability
 - Connecting upstream
+- Modules, Containers...
 
 ---
 
