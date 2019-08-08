@@ -183,6 +183,14 @@ License: CC-BY
 
 ---
 
+## Help us
+
+- Test the current workflow
+-- Volunteers welcome to test the multi-build updates workflow when it lands
+- Give your feedback
+
+---
+
 ## Thank you!
 
 ### Questions?
