@@ -121,7 +121,7 @@ License: CC-BY
 
 - 1 update -> 5 to 7 emails :cry: 
 
-- Do **not** use buildroot overrides :smiley: 
+- Do ++**not**++ use buildroot overrides :smiley:
 
 - Signing mass-rebuilds needs adjustments
 -- Dedicated signing?
