@@ -195,7 +195,7 @@ License: CC-BY
 
 ### Questions?
 
-Contact us:
+Contact:
 
 - #fedora-ci on freenode
 - ci@lists.fedoraproject.org
