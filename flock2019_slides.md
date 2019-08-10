@@ -11,7 +11,7 @@ description: View the slide with "Slide Mode".
 <br />
 <br />
 
-slide: https://hackmd.io/@pingou/rkCVBOlmS#/
+slide: https://hackmd.io/@pingou/flock_2019/
 License: CC-BY
 
 ---
@@ -71,7 +71,7 @@ License: CC-BY
 
 - Make it happen
  
-- Fit in in the packager's workflow
+- Fit in in the existing tooling
 
 - Interrupt as little as possible the packager's workflow
 
@@ -227,3 +227,9 @@ Contact:
 - #fedora-ci on freenode
 - ci@lists.fedoraproject.org
 - https://pagure.io/fedora-ci/general/
+
+Docs:
+
+- https://docs.fedoraproject.org/en-US/rawhide-gating/
+- https://docs.fedoraproject.org/en-US/ci/
+
