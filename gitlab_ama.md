@@ -47,3 +47,8 @@ On September 9th, the questions will be ordered here by their popularity, so the
 - Votes: 
 - Answer:
 ---
+
+- Question: Fedora forbids force-push in the main projects but allows them in forks. Would this be feasible in GitLab in a way that people cannot revert?
+- Votes: 
+- Answer:
+---
