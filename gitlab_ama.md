@@ -32,6 +32,11 @@ For example, a question with three votes should look like:
 
 On September 9th, the questions will be ordered here by their popularity, so the most popular questions are asked first.
 
+
+### The answer section
+
+The answer section is for **GitLab** to provide an answer to the question. Please do not fill it for them. All of the Q&As will be published after the session.
+
 ---
 
 ## Questions
